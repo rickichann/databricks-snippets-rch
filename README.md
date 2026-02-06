@@ -1,1 +1,1 @@
-## Everything that I wrote, everything that I experienced
+## A collection of everything I’ve written and experienced along the way.
